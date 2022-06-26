@@ -1,0 +1,8 @@
+C:\Users\Lucas\source\repos\Console-xadrez\Console-xadrez\bin\Debug\Console-xadrez.exe.config
+C:\Users\Lucas\source\repos\Console-xadrez\Console-xadrez\bin\Debug\Console-xadrez.exe
+C:\Users\Lucas\source\repos\Console-xadrez\Console-xadrez\bin\Debug\Console-xadrez.pdb
+C:\Users\Lucas\source\repos\Console-xadrez\Console-xadrez\obj\Debug\Console-xadrez.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\Console-xadrez\Console-xadrez\obj\Debug\Console-xadrez.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\source\repos\Console-xadrez\Console-xadrez\obj\Debug\Console-xadrez.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Console-xadrez\Console-xadrez\obj\Debug\Console-xadrez.exe
+C:\Users\Lucas\source\repos\Console-xadrez\Console-xadrez\obj\Debug\Console-xadrez.pdb
